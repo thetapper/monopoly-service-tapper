@@ -1,5 +1,7 @@
 # CS 262 Monopoly Web Service
 
+- <https://monopoly-tapper-ecbrhwh9dkhuazeb.canadacentral-01.azurewebsites.net/> live web app!
+
 This is the data service application for the
 [CS 262 sample Monopoly project](https://github.com/calvin-cs262-organization/monopoly-project),
  which is deployed here:
